@@ -1,4 +1,3 @@
 # ReactBoilerplate
 
-React configuration
-Linters setup
+React configuration and Linters setup
